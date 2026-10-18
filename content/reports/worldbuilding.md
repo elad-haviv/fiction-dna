@@ -47,6 +47,7 @@ In these worlds, history is not a lore appendix — it is an active force.
 - **Frieren** lets time itself be the subject: the same road means something different fifty years later.
 - **Attack on Titan** weaponizes inherited history; what people believe about the past decides what they will do now.
 - **Skyrim** and **Made in Abyss** bury their history in ruins and artifacts for the audience to excavate.
+- **Time Jam: Valerian & Laureline** makes the past terrifyingly load-bearing: one act of mercy during a routine time voyage erases Earth from existence, and the entire series lives inside that consequence.
 
 **Technique:** plant the past in a current obligation, prejudice, ruin, or technique. History earns its place when somebody has to act because of it.
 

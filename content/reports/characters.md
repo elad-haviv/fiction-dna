@@ -47,6 +47,7 @@ The most durable characters in this library are built on a **contradiction they 
 - **Frieren, To Your Eternity, Maquia** — encounters with others literally change what the protagonist can understand and become.
 - **Mushoku Tensei** makes growth slow and relational: Rudeus changes through years of mentors, failures, and family, not epiphanies.
 - **Teasing Master Takagi-san** and **The Fragrant Flower Blooms with Dignity** develop characters through tiny, repeated interactions — a relationship deepens one small honest moment at a time.
+- **Laureline and Valerian (Time Jam)** — after the rescue debt is paid, nothing obliges her to stay: no employer, no family, no mission. The series' real development engine is that she chooses the partnership daily, in a universe that has no humans left to assign her one.
 - **Fullmetal Alchemist: Brotherhood** distributes development across an ensemble; people change each other.
 
 **Technique:** every significant relationship should alter the character's options or self-image. If a bond can be removed without changing the character's behavior, it was decoration.

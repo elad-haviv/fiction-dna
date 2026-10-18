@@ -28,6 +28,7 @@ Some stories are built so that each answer changes the meaning of earlier questi
 ### 3. The case of the week that feeds the whole
 
 - **Apothecary Diaries, Supernatural, Violet Evergarden, Cardcaptor Sakura** — episodic problems that each leave a trace: a relationship shifted, a clue banked, a skill gained.
+- **Time Jam: Valerian & Laureline** runs freelance jobs across planets and eras while the vanished Earth stays open as the standing super-objective — and every episode title keeps the word "time" ticking underneath, so even a throwaway case reminds you what the currency is.
 
 **Technique:** every self-contained episode should deposit something permanent. The audience should be able to feel the series accumulating even when the plot of the week closes.
 
@@ -62,6 +63,28 @@ Some stories are built so that each answer changes the meaning of earlier questi
 ### Endings are downstream of the engine
 
 The works here whose endings are beloved (or debated) are the ones where the ending answers the question the engine was asking all along — Brotherhood's "what are people for," Vinland Saga's "what is strength for." When an engine runs on mystery alone, the ending can only disappoint; when it runs on a question about people, any honest answer lands.
+
+## What the arcs reveal
+
+Looking across the arcs of all 41 works, the library builds its longer shape in three recognizable patterns.
+
+### 1. The arc that changes the question
+
+In the strongest serials, each arc doesn't just advance the plot — it rewrites what the story is about. **Attack on Titan** moves from "kill the monsters" to "who are the monsters" to "what does freedom cost"; **Vinland Saga** moves from revenge to slavery to founding; **Mushoku Tensei** moves from second chances to parenthood to legacy. The arcs chain because each one exhausts its question.
+
+**Technique:** before ending an arc, ask what question the next arc will ask that this one couldn't. If the question never changes, you have a season number, not a story.
+
+### 2. The mission cycle around a wound
+
+The episodic works hang their cases around an open loss that never closes in the middle: **Supernatural's** dead mother and then the Apocalypse, **Apothecary Diaries'** constrained freedom, **Time Jam's** vanished Earth. The case of the week explores the wound from a different angle; the wound guarantees the episodes accumulate.
+
+**Technique:** give your episodic engine one unhealed thing at the center, and let each mission make the audience see it more clearly — not closer to resolution, just more clearly.
+
+### 3. The pairing arc that replaces plot
+
+The quiet romances (**Takagi-san, Dress-Up Darling, Duke of Death, Polar Opposites, Fragrant Flower**) barely escalate events; they escalate intimacy. The "arc" is a deepening of what the two people can say and risk to each other, and a held breath is a legitimate cliffhanger.
+
+**Technique:** when stakes are small, make each installment renegotiate the relationship's terms slightly — a confession withheld is the same structural beat as a city burned, if the audience cares about who says it.
 
 ## Failure modes to avoid
 
