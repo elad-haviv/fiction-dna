@@ -8,6 +8,13 @@
 
 **Story engine and world.** The engine is a single escalating match framed by fish-out-of-water comedy: Jordan acclimating to cartoon rules, the Tunes acclimating to teamwork. The world rule that generates everything is that Looney Tunes Land runs on cartoon physics — anything can happen, so no problem needs a realistic solution, which is the point. The talent-theft gimmick creates the one real obstacle: the opposition is unfairly superhuman.
 
+**Arcs.**
+- **The abduction** — aliens shrink and steal the Looney Tunes' talent via basketball challenge.
+- **The recruiter** — Bugs Bunny drafts the one human athlete retired and reachable: Michael Jordan.
+- **The Monstars** — the stolen talent turns the invaders into monsters mid-movie, raising the stakes with the villain's own design.
+- **The game** — absurd physics, cartoon rules, and the one real-world skill that decides it.
+- **The return** — Jordan goes back to baseball, and the cartoon world closes politely behind him.
+
 **Relationships and delivery.** The key bond is Jordan and Bugs — straight-man legend against agent of chaos — with Lola Bunny introduced as a competent new Tune and love interest for Bugs. The warmth comes from the Tunes' loyalty and Jordan's genuine affection for the game. Delivery is the artifact itself: 1996 live-action/animation hybrid, a R. Kelly anthem, NBA cameos, and Bill Murray showing up as himself — a time capsule where the medium mashup IS the content.
 
 **Why it may matter to you.** Tentative hypothesis: Space Jam likely works for you as childhood event-cinema nostalgia and as a story where a game decides the fate of a world — a lighter cousin of the play-as-stakes structure in Skyrim or MapleStory memories. The cartoon-logic problem solving (win by embracing the rules of a whimsical world) resembles what you enjoy in Delicious in Dungeon's rule-loving fantasy. It may also simply be the pleasure of sincerity without cynicism.

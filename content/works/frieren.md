@@ -8,6 +8,14 @@
 
 **Story engine and world.** Travel encounters prompt memories of the earlier journey. Those memories alter how Frieren behaves now. Ruins, spells, commemorations, and changing communities give time a material presence. The magic is especially effective when it has personal or domestic uses; a minor spell can carry more feeling than a major victory.
 
+**Arcs.**
+- **Prologue** — the hero's party disbands; Himmel dies of old age and Frieren, unmoved at the funeral, returns decades later and begins to learn what she missed.
+- **The journey north** — Frieren takes an apprentice, Fern, and later the warrior Stark; travel episodes pair new encounters with memories of the old party.
+- **Aura the Guillotine** — the party faces a demon army from Frieren's past; she defeats Aura with a gambit built from the discipline of centuries.
+- **The First-Class Mage Examination** — Frieren and Fern enter a mage certification exam in Äußerst; rivalries, dungeon combat, and Frieren's first real peer community.
+- **The demon city and the Golden Land** — negotiation, betrayal, and the discovery that some demons learned to mimic words but never feeling.
+- **Toward Aureole** — the march into Ende to reach the land where souls rest, closing the debt the prologue opened.
+
 **Relationships and delivery.** Mentorship lets her pass on what she only partly understood when she received it. Her younger companions supply immediate needs, irritation, and humor. Quiet travel, seasonal landscapes, pauses, and understated reactions allow emotion to arrive after the event rather than announcing itself in advance. Sudden combat also reminds us that gentleness does not mean harmlessness.
 
 **Why it may matter to you.** It offers immense history at a human scale. You may respond to affection demonstrated through repeated acts rather than declared in speeches, or to the ache of realizing that an ordinary moment was important.

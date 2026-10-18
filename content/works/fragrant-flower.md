@@ -8,6 +8,12 @@
 
 **Story engine and world.** The repeatable generator is the boundary crossing: each episode sends characters across the invisible line between the two schools — a chance meeting, a festival, a friendship that straddles both sides — and watches the social immune system react. The world constraint is reputation as infrastructure: the rivalry needs no villain, only students, teachers, and families who inherited contempt and never examined it. Cake and flowers do quiet symbolic work, marking care as the counter-language to inherited hostility.
 
+**Arcs.**
+- **The wall between schools** — Chidori and Kikyo High share a fence and a mutual contempt that is mostly inherited.
+- **Rintaro and Kaoruko** — a meeting across the divide that neither of their worlds approves of.
+- **The friends' test** — each clique must decide whether a person or a category sits across from them.
+- **The school-level confrontation** — the prejudice stops being background noise and has to be answered out loud.
+
 **Relationships and delivery.** Rintaro and Kaoruko's bond is built on being seen accurately — she reads his kindness immediately, which reframes every misunderstanding around him. The friend groups on both sides are not obstacles but the actual battleground: the story spends as much care converting them as courting the leads. (Analysis based on the 2025 anime adaptation, the best-known version.)
 
 **Why it may matter to you.** It's a low-cynicism companion to your heavier favorites: where ReZero or Vinland Saga ask whether a person can change under extreme pressure, this asks the same question of a whole social fabric under mild, ordinary pressure. If Violet Evergarden's "feelings delivered through craft" moved you, the cake-shop-as-love-language here will land the same way.

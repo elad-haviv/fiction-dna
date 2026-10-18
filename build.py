@@ -78,13 +78,13 @@ def card_sections(text):
         lm = re.match(r'\*\*(.+?)(?::|\.)?\*\*\s*(.*)', line)
         if lm:
             if cur_label:
-                sections.append((cur_label, ' '.join(cur_lines).strip()))
+                sections.append((cur_label, cur_lines))
             cur_label = lm.group(1).rstrip('.:')
             cur_lines = [lm.group(2)]
         elif line.strip():
             cur_lines.append(line.strip())
     if cur_label:
-        sections.append((cur_label, ' '.join(cur_lines).strip()))
+        sections.append((cur_label, cur_lines))
     return title, sections
 
 def build():
@@ -100,19 +100,24 @@ def build():
         if not f.exists():
             raise SystemExit(f"missing card: {f}")
         title, sections = card_sections(f.read_text())
-        dna = next((v for k, v in sections if k == 'DNA sentence'), '')
-        cards.append({**entry, 'display': title, 'sections': sections, 'dna': dna})
+        dna = next((v for k, v in sections if k == 'DNA sentence'), [''])
+        cards.append({**entry, 'display': title, 'sections': sections, 'dna': ' '.join(dna)})
 
     # individual work pages
     for c in cards:
         parts = [f'<nav class="crumbs"><a href="../index.html">Library</a> / {html.escape(c["display"])}</nav>',
                  f'<h1>{html.escape(c["display"])}</h1>',
                  f'<p class="dna">{md_inline(c["dna"])}</p>']
-        for label, value in c['sections']:
+        for label, lines in c['sections']:
             if label == 'DNA sentence':
                 continue
+            if any(l.startswith('- ') for l in lines):
+                items = ''.join(f'<li>{md_inline(l[2:])}</li>' for l in lines if l.strip())
+                body_html = f'<ul>{items}</ul>'
+            else:
+                body_html = f'<p>{md_inline(" ".join(lines))}</p>'
             cls = 'note' if 'Why it may matter' in label else 'sec'
-            parts.append(f'<section class="{cls}"><h2>{html.escape(label)}</h2><p>{md_inline(value)}</p></section>')
+            parts.append(f'<section class="{cls}"><h2>{html.escape(label)}</h2>{body_html}</section>')
         (OUT / "works" / f"{c['slug']}.html").write_text(
             page(c['display'], c['dna'][:150], '\n'.join(parts), root="../"))
 

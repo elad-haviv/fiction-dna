@@ -8,6 +8,14 @@
 
 **Story engine and world.** Training and missions expose different expressions of harm. Battles test an embodied skill, a bond, and a moral stance. Family inheritance, apprenticeship, and the limits of the human body give techniques an emotional context. The escalating hierarchy supplies clear aspiration and dread.
 
+**Arcs.**
+- **The Final Selection** — Tanjiro loses his family, his sister survives as a demon, and he trains to cure her.
+- **Asakusa and Tamayo** — the first proof that a demon can choose not to devour.
+- **Tsuzumi Mansion and Mount Natagumo** — the corps' ranks, Zenitsu and Inosuke, and the first meetings with true upper-rank threat.
+- **Mugen Train** — Rengoku versus Akaza: the arc that sets the series' emotional and physical ceiling.
+- **The Entertainment District and Swordsmith Village** — two Hashira-level victories in sequence; the momentum flips.
+- **The Infinity Castle and sunrise** — every remaining demon, every remaining breath style, in one descending battle.
+
 **Relationships and delivery.** The sibling bond is a stable emotional center amid a noisy ensemble. Mentors make discipline personal. In the anime, compositing, stylized elemental imagery, choreography, sound, and musical escalation are substantial parts of the appeal; a premise-only analysis would miss why particular encounters feel overwhelming.
 
 **Why it may matter to you.** This may be the clearest evidence that you do not require moral greyness in every favorite. Sincerity, earned effort, protective love, and the beauty of execution can matter as much as political complexity.

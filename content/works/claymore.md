@@ -8,6 +8,13 @@
 
 **Story engine and world.** A mission tests the threshold between controlled power and transformation. Differences in ability create tactical situations, while an overseeing organization makes authority another source of uncertainty. The recurring question is who gets to define a warrior as a person, a weapon, or a failed asset.
 
+**Arcs.**
+- **Teresa of the Faint Smile** — a rogue warrior and the child she saved end in a massacre that makes Clare an Organization experiment.
+- **The hunting team** — Clare as the weakest among Awakened-hunting squads learns teamwork is the Organization's leash.
+- **The Northern Campaign** — Pieta, Isley, and the great Awakened war that 'loses' seven warriors on purpose.
+- **The seven-year gap** — the survivors reorganize outside the Organization's control and return to dismantle it.
+- **The Organization's end** — the truth of the yoma experiments and the final accounting with Priscilla and the Abyssal Ones.
+
 **Relationships and delivery.** Bonds among warriors resist their reduction to ranks and functions. Mentorship, recognition, and shared bodily risk provide alternatives to institutional categories. The restrained faces, pale palette, spare medieval environments, and violent transformations make changes in expression and anatomy unusually forceful.
 
 **Why it may matter to you.** You may value feared outsiders forming solidarity, power that has a visible price, and the struggle to remain oneself while using the very thing that threatens to erase that self.

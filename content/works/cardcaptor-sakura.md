@@ -8,6 +8,13 @@
 
 **Story engine and world.** An odd event interrupts everyday life and reveals a card with a particular behavior or power. Understanding that behavior suggests a way to capture it, and the growing set of cards gives Sakura more possibilities for later encounters. Collection therefore supports invention rather than functioning only as a checklist. Familiar places become magical situations without losing their ordinary emotional associations.
 
+**Arcs.**
+- **The book in the basement** — Sakura opens the Clow Book and must retrieve what she scattered.
+- **The Clow cards** — episodic captures that teach each card a feeling, not just a power.
+- **The judgement** — Yue refuses Sakura's claim to be master; she must win the cards by understanding, not collecting.
+- **The Sakura cards** — rewriting magic in her own name to survive Eriol's engineered crises.
+- **The last conversion** — the final card, the confession, and magic handed over to its new custodian.
+
 **Relationships and delivery.** Kero supplies guidance and comic friction; Tomoyo's practical support makes friendship part of the adventure's production. Syaoran introduces rivalry that can change through shared experience. Family life and developing affections give magical tasks emotional context beyond their immediate danger. Distinctive costumes, expressive card designs, transformation rituals, music, and seasonal town life make beauty and anticipation part of the recurring pleasure. This reading concerns the original series rather than assuming the same structure for Clear Card.
 
 **Why it may matter to you.** You may respond to magic as something beautiful and personal, a collection whose members have distinct identities, and a protagonist whose kindness remains a strength. It offers another reason not to reduce this library to dark fantasy: reassurance, play, and affectionate relationships can sustain attachment without constant cynicism or catastrophe.

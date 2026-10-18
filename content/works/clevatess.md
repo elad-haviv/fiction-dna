@@ -8,6 +8,11 @@
 
 **Story engine and world.** A powerful outsider's investigation of humanity produces encounters that can challenge his categories. The child turns abstract assessment into logistics. The human warrior associated with him supplies a perspective that power alone cannot supply. The premise allows political and monstrous threats without making raw combat ability the only source of uncertainty.
 
+**Arcs.**
+- **The lord who judged humanity** — a god-tier being of destruction wakes to find himself guardian of the last human baby.
+- **The foundling caravan** — with the child and two unlikely companions, Clevatess travels a world he had only ever viewed as beneath him.
+- **The cost of care** — each rescue teaches the judge of humanity what a single human life weighs.
+
 **Relationships and delivery.** Unequal strength does not imply equal usefulness. A caretaker or human guide can know something a terrifying ruler does not. The contrast between brutality and domestic need creates both unease and humor. This report treats that contrast as a structural opportunity, not proof that every later arc fulfills it.
 
 **Why it may matter to you.** You may respond to a frightening nonhuman perspective, a reversal of conventional hero-and-monster framing, and tenderness that does not initially look like tenderness. It fits the wider question in your list of how someone becomes capable of valuing another life.

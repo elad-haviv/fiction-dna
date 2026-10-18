@@ -8,6 +8,14 @@
 
 **Story engine and world.** Life stages reorganize the story. A tutor, a journey, a separation, or a family obligation changes what competence requires. The setting feels large when culture, distance, language, and practical travel affect events rather than serving as background decoration. A new place changes social expectations as well as scenery.
 
+**Arcs.**
+- **Second life begins** — a 34-year-old NEET is reborn as Rudeus; with Roxy as tutor he chooses, this time, to try.
+- **The Mana Calamity** — a teleport catastrophe scatters the family across the world; Rudeus and Eris end up in the Demon Continent.
+- **Return and loss** — the rescue of Zenith, Paul's death, and Eris's departure: progress and grief in the same chapter.
+- **Ranoa Magic Academy** — Sylphie, new friends, and the first family Rudeus builds as an adult rather than a child.
+- **The Orsted alliance** — choosing the enemy of the world as an ally to protect his family from the future.
+- **The long last act** — children, old grudges, the war against Laplace, and a deathbed that reviews the whole second life.
+
 **Relationships and delivery.** Mentors, relatives, friends, and partners have histories that do not begin with Rudeus. Domestic scenes make the passage of time legible. In the anime, environmental detail and travel imagery help make the world feel inhabited between major incidents.
 
 **Why it may matter to you.** You may value the feeling of accompanying an entire life rather than consuming a sequence of battles, along with gradual mastery and a world whose inhabitants have independent concerns.

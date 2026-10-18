@@ -8,6 +8,13 @@
 
 **Story engine and world.** A learned way of surviving succeeds tactically while damaging the possibility of a meaningful life. Encounters with the people who bear violence's costs demand a different purpose. Labor, land, slavery, trade, and rule give the ethical argument material resistance. The world does not become peaceful just because a protagonist wants peace.
 
+**Arcs.**
+- **The mercenary childhood** — Thorfinn grows up inside Askeladd's band, sharpened by one purpose: a duel with his father's killer.
+- **Askeladd's game** — Danish succession politics, Canute, and the patricide that ends the revenge arc prematurely.
+- **The farm** — enslaved at Ketil's, Thorfinn learns that a life without an enemy must find its own reason; 'I have no enemies.'
+- **The expedition** — buying freedom, assembling a crew, and sailing toward a land where war has no function.
+- **Vinland** — settlement, compromise, and the question of whether peace can survive contact with the world it flees.
+
 **Relationships and delivery.** Fathers, enemies, companions, and people harmed by warfare offer incompatible models of adulthood. Relationships challenge the equation of masculine worth with domination. Changes in pacing are part of the argument: sustained work and difficult conversation can become more consequential than a duel.
 
 **Why it may matter to you.** You may value transformation that changes the protagonist's goal rather than merely improving their means. It also suggests that you can enjoy a story which deliberately questions the pleasures its opening supplied.

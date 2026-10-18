@@ -8,6 +8,13 @@
 
 **Story engine and world.** A lead about alchemy or the Philosopher's Stone opens a local problem, which reveals part of a larger political structure. Scientific rules, military authority, national history, and bodily vulnerability connect. The investigation works because discoveries change both the tactical problem and the moral meaning of the quest.
 
+**Arcs.**
+- **The failed transmutation** — the brothers' attempt to resurrect their mother costs Ed two limbs and Al his entire body; the journey begins as an exchange.
+- **The hunt for the Philosopher's Stone** — Lior, Laboratory Five, and Scar: what looks like a treasure hunt reveals a state-wide conspiracy.
+- **The Ishval war and the homunculi** — the past catches up: Mustang's sins, Scar's revenge, and the seven sins made flesh.
+- **The Promised Day** — the military coup in Central, the nationwide transmutation circle, and Father's attempt to become god.
+- **The price paid** — each character names a personal toll and the door of truth is bargained with for what matters most.
+
 **Relationships and delivery.** The ensemble is a network of obligations rather than a queue of assistants to the protagonist. Soldiers, civilians, survivors, researchers, and people from neighboring societies possess different pieces of the problem. Mechanical repair and bodily care keep grand ideas tangible. Comedy supplies a baseline of ordinary attachment against which cruelty registers.
 
 **Why it may matter to you.** You may enjoy a story whose large design feels earned: local details later matter, people retain agency outside the hero's view, and moral restraint is part of competence rather than its opposite.

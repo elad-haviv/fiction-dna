@@ -8,6 +8,12 @@
 
 **Story engine and world.** A commission presents an apparent writing task and a less visible emotional problem. Listening, observing, or making a mistake leads to a more adequate expression. The client relationship gives Violet a lesson she cannot simply master as a procedure. Postal work supplies movement through different lives while postwar society gives the cases a shared context.
 
+**Arcs.**
+- **Recovery and training** — the war orphan weapon learns to write letters for strangers instead of orders for soldiers.
+- **The letters** — princesses, playwrights, the dying: each commission is someone who cannot say what they feel, said for them.
+- **The Major's memory** — the client who asks Violet to ghost-write the feelings she cannot claim for herself.
+- **Letters in the sky** — the war anniversary, the plane, and the words 'I love you' finally landing on their recipient.
+
 **Relationships and delivery.** Clients are temporary relationships with lasting effects. Colleagues provide the continuity that episodic encounters cannot. Hands, paper, machines, physical labor, careful composition, and restrained gestures make communication tangible. The anime's visual and musical treatment is a major part of how it earns or intensifies its emotional release.
 
 **Why it may matter to you.** You may appreciate emotional development shown through a craft, grief translated into a concrete act of care, and stories in which understanding another person is the central achievement.

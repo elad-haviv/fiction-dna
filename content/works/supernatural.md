@@ -8,6 +8,13 @@
 
 **Story engine and world.** A local anomaly prompts research, interviews, identification of a creature's rules, and a risky intervention. Cases also reflect or aggravate the brothers' current conflict. Larger mythology raises the stakes while the road structure keeps returning to individual homes and communities.
 
+**Arcs.**
+- **The family business** — two brothers and their father hunt the demon that took their mother.
+- **The yellow-eyed demon** — the revenge arc completes and immediately reveals a bigger machine: the Apocalypse.
+- **Angels** — Castiel, Heaven, and the brothers as vessels in a cosmic custody battle.
+- **Leviathans, the Darkness, and God** — each season's bigger threat keeps shrinking the premise back to family.
+- **Chuck's ending** — the discoverer that God is the author, and the brothers' insistence on writing themselves out of the script.
+
 **Relationships and delivery.** Brotherly banter, concealment, sacrifice, and reconciliation keep the show recognizable through changes in scale. Found family expands the emotional circle. Motels, diners, classic rock, back roads, and the car provide continuity when cosmology becomes increasingly elaborate. Tonal detours can refresh attachment because the core dynamic survives them.
 
 **Why it may matter to you.** You may enjoy companions whose relationship is the durable home in a dangerous world, folklore investigated through procedure, and the combination of horror with deeply familiar routines.

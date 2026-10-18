@@ -8,6 +8,12 @@
 
 **Story engine and world.** The repeatable situation is the production cycle — auditions, variety shows, dramas, stage plays — each one a microcosm where talent, connections, image management, and raw luck collide, and each one a step in Aqua's investigation. The world's hard rule is that the industry runs on manufactured personas: the truth is always behind layers of PR, so every answer Aqua finds costs him a role, a relationship, or a piece of himself. Showbiz knowledge itself functions as the magic system — insider mechanics are the power-ups.
 
+**Arcs.**
+- **The lie that killed her** — idol Ai's secret twins, her murder, and the vow her children make with adult memories inside child bodies.
+- **B-Komachi** — Aqua directs Ruby's idol career from inside the industry that killed their mother.
+- **The stage** — acting, Kana, and the Tokyo Blade production: revenge begins to look like a craft problem.
+- **The search for the father** — the documentary, the candidates, and the cost of investigating your own parentage.
+
 **Relationships and delivery.** The twins' bond carries the emotional core: Ruby chases the stage Ai left behind while Aqua shadows it, so sibling love and divergent grief generate friction without either becoming a villain. Around them orbit child actors, idols, and creators — each given enough interiority that "industry types" become people ground by the same gears. Yokoyari's manga art and Doga Kobo's adaptation contrast idol-glow staging with flat, dead-eyed interiors, so the medium itself argues the theme: performance versus the person performing.
 
 **Why it may matter to you.** If ReZero's suffering-driven determination or the showbiz sincerity of Kaleido Star work for you, Oshi no Ko is the collision of both — a revenge engine wearing an idol drama's skin. Its refusal to romanticize the industry recalls how your favorites (Vinland Saga's violence, Frieren's time) take a genre premise seriously enough to examine its costs. The reincarnated-child conceit also gives it a Cardcaptor-adjacent surface brightness over genuinely adult grief.

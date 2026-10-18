@@ -8,6 +8,12 @@
 
 **Story engine and world.** Scenes generate from the curse's simple physics: meals, dances, illnesses, visitors, and daily chores all become logistical and emotional puzzles when touch kills. The world's hard constraint is that the curse is absolute and its caster unknown, so no cleverness, wealth, or willpower can route around it — only the slow quest toward the witch who cast it. Exile keeps the cast small and the isolation total, so each relationship carries the full weight of the duke's humanity.
 
+**Arcs.**
+- **The curse and the maid** — everything the Duke touches dies; his maid treats that as a logistics problem, not a boundary.
+- **The witch's price** — Alice the fire witch and the slow discovery that the curse has an author and an origin.
+- **The house beyond** — visits, seasons, and the family that disowned him learning he is not what they feared.
+- **Lifting the curse** — the curse is broken and its removal is not the resolution; the proposal is.
+
 **Relationships and delivery.** Alice and the duke's dynamic inverts the usual romance roles: she is the fearless aggressor, he the flustered one, and her teasing functions as a deliberate counter-spell against the story he tells himself — that he is unlovable. Rob's quiet devotion and later visitors widen the circle, each testing whether the duke's world can hold more than two people. The CG-assisted visuals keep the mansion storybook-gothic, letting wisteria-withering touches read as fairy-tale dread rather than gore.
 
 **Why it may matter to you.** If you respond to Inuyasha's love-across-a-curse or Violet Evergarden's study of what tenderness means to someone marked by harm, this is a gentler, wittier cousin. Alice's insistence on treating the duke as desirable rather than pitiable echoes the way your favorites give wounded characters agency over their own narrative. The fairy-tale fatalism wrapped in romcom rhythm may land like a sweeter Frieren: mortality as the price and proof of attachment.

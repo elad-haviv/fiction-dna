@@ -8,6 +8,13 @@
 
 **Story engine and world.** Encounter a person or community, acquire a capacity or understanding through contact, suffer a change in that relationship, and carry its consequences into another situation. Fushi's transformations make influence unusually literal: other lives affect what the protagonist can become. The people encountered must remain specific enough to be more than steps in a curriculum.
 
+**Arcs.**
+- **The Nameless Boy** — an orb becomes a wolf, then a boy, and learns death before it learns anything else.
+- **Jananda** — the island prison and Tonari: the first proof that attachment survives departure.
+- **Takunaha** — Gugu, Rean, and the season the immortal learns to be one person among others.
+- **The Nokker war at Renril** — Fushi builds a city and an army of himself; the fight is less about winning than about carrying everyone.
+- **The long modern era** — centuries later, the world has moved on and Fushi must decide whether to keep holding its shape.
+
 **Relationships and delivery.** Care often arrives before understanding. Being fed, named, sheltered, or recognized establishes personhood through interaction. A shifting cast and larger spans of time create tension between memory and the need to form new attachments. Repeated forms and gestures can hold the presence of an absent person without recreating the original relationship.
 
 **Why it may matter to you.** You may respond to identity as something relational rather than self-generated, and to the thought that another person's influence survives in how someone acts. This overlaps with Frieren but begins from a much more radical lack of human experience.

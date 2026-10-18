@@ -8,6 +8,13 @@
 
 **Story engine and world.** A goal reveals a dependency. Solving that dependency requires another person or institution, which creates a new obligation. Paper is connected to materials, labor, commerce, literacy, status, and authority. The setting grows because the protagonist's project encounters more of its structure, not because the narrator opens an encyclopedia.
 
+**Arcs.**
+- **Part 1: a commoner's paper** — Myne wakes in a medieval body and decides the impossible (books) starts with the mundane (paper and ink).
+- **Part 2: the temple** — to protect her family she becomes an apprentice shrine maiden and learns the temple is its own politics.
+- **Part 3: adoption** — a noble family adopts her; every gain in access to books is paid in rank and danger.
+- **Part 4: the Royal Academy** — noble school, ditter, the library: Myne finally stands in the center of knowledge she once only coveted.
+- **Part 5: the duchy's weight** — printing spreads through the country while its maker navigates sovereignty, succession, and sacrifice.
+
 **Relationships and delivery.** Family, collaborators, merchants, and patrons supply knowledge and leverage Myne lacks. Dependence prevents the reincarnated protagonist from being a solitary dispenser of modern superiority. Process detail makes improvement satisfying; household needs keep ambition attached to ordinary life.
 
 **Why it may matter to you.** You may enjoy the sense that civilization has working parts, and that building something can be as dramatic as defeating someone. It also offers a progression fantasy in which social access and responsibility matter alongside magical capacity.

@@ -8,6 +8,11 @@
 
 **Story engine and world.** Episodes generate from trivial middle-school raw material — critical hits, tests of courage, bike practice, fetching things — each reframed as a teasing duel with a simple rule set the audience can play along with. The world's soft constraint is middle-school social reality itself: feelings at that age can be shown but not said, pride is fragile, and one blush is public catastrophe. The contest structure gives every slice-of-life beat a win/lose scoreboard without real stakes ever entering the room.
 
+**Arcs.**
+- **The daily duel** — every episode is one teasing round Nishikata loses by reacting exactly as predicted.
+- **The school year** — festivals, tests, the library committee: ordinary events reframed as contests he keeps entering.
+- **The realization** — Nishikata understands the game is a courtship and that he is not its victim but its co-author.
+
 **Relationships and delivery.** The two-hander is precise: Takagi's composure breaks only in tiny, telling cracks, and Nishikata's obliviousness is calibrated so he notices everything except the one thing that matters. Side characters (the girls' trio) provide contrast sketches of friendship at the same age. Delivery is restrained — soft lighting, seasonal small-town settings, and Yukari Tamura's/Takahashi Rie's playful vocal timing carry most of the charge; the anime's warmth comes from patience, not spectacle.
 
 **Why it may matter to you.** If Inuyasha's long unspoken undercurrent or Cardcaptor Sakura's gentle depiction of kids' feelings resonates with you, Takagi-san distills that warmth into pure episodic form with zero peril. It's the comfort-food end of your list — the same "affection shown through action, not declaration" mechanism as Frieren, transposed to a classroom. Watch it when you want sincerity without stakes.

@@ -8,6 +8,12 @@
 
 **Story engine and world.** Choose an identity, practice it, unlock an expressive improvement, venture farther, and return with evidence of progress. Regions have strong identities; a new map can feel like entering a different storybook. Authored class and world plots coexist with the player's account of meeting friends, overcoming an obstacle, or finally reaching a destination.
 
+**Arcs.**
+- **Maple Island and Victoria Island** — the tutorial promise: a cute world where grinding visibly changes who you are.
+- **Ossyria** — Orbis, El Nath, and the first boss encounters (Zakum, Horntail): community milestones every player remembers.
+- **The Black Mage saga** — years of chained content culminating in the confrontation with the world's original catastrophe.
+- **Grandis and beyond** — new continents, new classes, and the endless horizon that keeps the treadmill spinning.
+
 **Relationships and delivery.** Repeated routes, party activities, recognizable silhouettes, music, and familiar gathering spots can become autobiographical anchors. A place may matter because of what happened there with other people, even when its written quest is forgettable. The score and movement feel deserve to be treated as possible causes of attachment, not decorative extras.
 
 **Why it may matter to you.** Possible attractions include distinct biomes, clear class fantasy, collectible progression, social memories, and a world that welcomes lingering. Your era and favorite towns would decide which explanation belongs near the top.

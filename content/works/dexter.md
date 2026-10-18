@@ -8,6 +8,13 @@
 
 **Story engine and world.** The repeatable generator is the season-long mirror killer: each season introduces a predator or adversary who reflects some part of Dexter, forcing him to balance the hunt, the investigation at his own precinct, and his deepening cover life. The world constraint is Harry's Code itself — a rigid set of rules (proof of guilt, don't get caught) that converts an uncontrollable urge into a disciplined practice. Miami's sunlit banality is load-bearing: horror works here because it hides in fluorescent offices and suburban barbecues.
 
+**Arcs.**
+- **The Ice Truck Killer** — a serial killer who seems to be teaching Dexter; the reveal is a family secret made flesh.
+- **The Bay Harbor Butcher** — Dexter's own kills investigated as crimes: the code meets a witness.
+- **Trinity** — the family-man killer who shows Dexter a possible future, and costs him his wife.
+- **The exposure era** — Deb learns what her brother is; the series' central conceit finally detonates.
+- **New Blood** — a decade later, in a small town, with a son: the code inherited rather than chosen.
+
 **Relationships and delivery.** Dexter's bonds are the real suspense engine: Deb's love, Rita's domesticity, his colleagues' trust are all genuine to them and performance (initially) to him, so intimacy is indistinguishable from risk. The first-person voiceover is the delivery device of the entire premise — it makes the audience complicit, letting them enjoy competence they should condemn. (Analysis covers the original Showtime series.)
 
 **Why it may matter to you.** Dexter is a live-action cousin of the Death Note question you already find compelling: not "is killing wrong" but "what does the person who decides become?" If ReZero interests you for its study of a self-mythologizing narrator, Dexter's voiceover is an American version — a man narrating himself as hollow while the story quietly proves otherwise.

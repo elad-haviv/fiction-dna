@@ -8,6 +8,11 @@
 
 **Story engine and world.** The repeatable generator is the social micro-event — choosing a seat, picking a lunch spot, answering a text, joining a trend — each one a tiny referendum on authenticity. The world constraint is the classroom as an economy of approval: popularity, group chats, and unspoken dress codes set prices on every choice, and Suzuki is hyper-aware of the exchange rate while Tani simply doesn't trade. The couple's orbit pulls their friend group into the same question, so side pairings echo and complicate the central dialectic.
 
+**Arcs.**
+- **The seat neighbors** — the room-reading girl and the unfiltered boy discover they are each other's missing half.
+- **Learning to be seen** — small daily exchanges retrain both of them: honesty and tact as learnable skills.
+- **The feelings that don't fit the roles** — the moment the friendship's comfortable dynamic has to admit it's love.
+
 **Relationships and delivery.** Suzuki and Tani's bond works because it is asymmetrical but not one-directional: he gives her permission to be unguarded, she gives him access to the social world he's indifferent to. The supporting cast — each with their own ratio of performance to self — keeps the theme from becoming a two-person fable. (Analysis based on the anime adaptation by Lapintrack.)
 
 **Why it may matter to you.** This is the lightest thing on your shelf, but it shares DNA with the serious entries: like ReZero's Subaru, Suzuki's enemy is her own pattern of self-betrayal, just played at classroom stakes. If you respond to stories where growth means becoming legible to yourself (Violet Evergarden), this delivers that arc in miniature, weekly doses.

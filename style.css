@@ -49,6 +49,8 @@ section.sec, section.note {
   padding: 1rem 1.25rem; margin: 0.8rem 0;
 }
 section.sec p, section.note p { margin: 0; }
+section.sec ul, section.note ul { margin: 0; padding-left: 1.1rem; }
+section.sec li, section.note li { margin: 0.35rem 0; }
 section.note { background: var(--note-bg); border-color: #e0cbb0; }
 section.note h2::after { content: " (hypothesis)"; font-weight: 400; font-size: 0.85rem; color: var(--muted); }
 .grid { display: flex; flex-direction: column; gap: 0.6rem; margin-top: 1.5rem; }

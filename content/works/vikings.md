@@ -8,6 +8,13 @@
 
 **Story engine and world.** The engine is the raid-politics cycle: plan an expedition, clash with a foreign or domestic power, return home changed, and face the political fallout. The world constraint is the Norse honor-fame economy — status must be continually won through deeds and defended against rivals, so no victory is ever final and rest is indistinguishable from decline. Faith (Odin, prophecy, fate) functions as a narrative gravity that characters believe in even when it destroys them.
 
+**Arcs.**
+- **The western raids** — Ragnar's Lindisfarne voyage defies earldom and horizon at once.
+- **King of the northmen** — Paris, politics with Ecbert, and the cost of being the man who was right too early.
+- **The fall** — Ragnar's decline, the snake pit, and a death staged as a final strategy.
+- **The sons' saga** — the Great Heathen Army, and Ivar versus Bjorn as two answers to the father's question.
+- **The new world** — Ubbe's voyage west completes the show's founding image: the horizon, not the throne.
+
 **Relationships and delivery.** The core web is Ragnar with Lagertha (partnership eroded by ambition), Rollo (brotherhood poisoned by envy), and Athelstan (the captured monk who becomes Ragnar's intellectual mirror across the pagan-Christian divide). Delivery is muddy, tactile historical drama: longships in real water, brutal shield-wall combat, and Travis Fimmel's restless, playful performance that sells genius as a physical quality.
 
 **Why it may matter to you.** Hypothesis: Ragnar's arc — greatness, hubris, and a legacy that both inspires and ruins the next generation — sits squarely beside Vinland Saga's meditation on violence and what it costs, and the generational saga structure echoes the long consequences you appreciate in Mushoku Tensei. The faith-versus-ambition tension and family-succession tragedy recall Fullmetal Alchemist's reckoning with fathers' sins. The tactical, build-and-conquer texture may also scratch the Skyrim itch.

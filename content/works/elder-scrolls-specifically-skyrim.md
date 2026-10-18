@@ -8,6 +8,13 @@
 
 **Story engine and world.** Notice something, approach it, discover a local situation, choose a response, leave with a new story. Mountains and landmarks create anticipation before exposition. Ruins, books, religious disputes, and conflicting accounts suggest a past that exceeds the playable present. The world can be read through spaces and objects as well as dialogue.
 
+**Arcs.**
+- **Helgen and the return of the dragons** — an execution gone wrong delivers you into a civil war country just as dragons reappear.
+- **The main quest** — from the Greybeards to Alduin: the Dovahkiin learns a language, not just a weapon.
+- **The Civil War** — Stormcloaks or Imperials: a choice between two broken ideas of the same country.
+- **The faction sagas** — the College of Winterhold, the Thieves Guild, the Dark Brotherhood, and the Companions: four parallel careers.
+- **Dawnguard and Dragonborn** — vampire lords on Solstheim and a fake god's false afterlife extend the world's edges.
+
 **Relationships and delivery.** Attachment often attaches to a home, town, companion, or recurring route rather than a tightly authored relationship arc. Weather, ambient music, distant peaks, and the contrast between a warm interior and an exposed road supply much of the emotional identity. The player's own sequence of events is part of the storytelling.
 
 **Why it may matter to you.** You may love the feeling that the world exists beyond the plot, or the ownership created by discovering something you were not explicitly sent to find. That is different from loving the main quest's writing.

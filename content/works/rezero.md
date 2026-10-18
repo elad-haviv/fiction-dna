@@ -8,6 +8,14 @@
 
 **Story engine and world.** An apparent situation becomes a causal puzzle across failed attempts. Knowledge accumulates unevenly: Subaru carries experiences that others do not share. The result is a discrepancy between his emotional intimacy with someone and that person's actual relationship with him. Politics, magic, and hidden motives prevent persistence alone from being enough.
 
+**Arcs.**
+- **First death in the capital** — Subaru wakes in a fantasy world, discovers 'Return by Death' the hard way, and learns the insignia theft case's real stakes.
+- **Roswaal's mansion** — the curse, the twins, and Rem's loyalty: Subaru stops trying to be a hero and starts being useful.
+- **The Royal Selection** — the political contest for the throne opens and Subaru pledges to Emilia's candidacy.
+- **The White Whale and the Witch Cult** — a military coalition kills the demon beast that erased his first friends; Betelgeuse falls.
+- **Sanctuary and the trials** — Emilia and Subaru each face the Witch's tomb; Subaru learns his ability belongs to someone else's love.
+- **Vollachia and the watchtower** — separated from everything, Subaru proves the loop skill was never the point — the person using it was.
+
 **Relationships and delivery.** Trust, asking for help, and understanding another person's priorities can accomplish what solitary endurance cannot. Repeated spaces and conversations acquire dread because their possible outcomes have changed. Relief matters enormously; without companionship and temporary safety, the resets would become a mechanical torture display.
 
 **Why it may matter to you.** You may be drawn to power that is also a burden, mysteries solved through attention, and a protagonist whose internal failures matter as much as the external threat.

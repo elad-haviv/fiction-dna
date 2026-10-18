@@ -8,6 +8,13 @@
 
 **Story engine and world.** A jewel fragment, local threat, or enemy maneuver leads to a community with a specific supernatural problem. Resolving it changes the group's resources or relationships while feeding a longer pursuit. Folkloric creatures and haunted places let intimate emotions acquire external form without requiring every encounter to be a world-ending event.
 
+**Arcs.**
+- **The shattered jewel** — Kagome falls through the well, Shikon shards scatter, and the quest structure installs itself.
+- **Naraku's web** — the villain as rumor: puppets, detachments, and a spider that never shows its whole body.
+- **Kikyo's return** — the dead priestess walks again, and the love triangle becomes the series' moral weight.
+- **The Band of Seven** — the mercenary resurrects episode arc that bridges mid-series fatigue.
+- **Mount Hakurei to the final battle** — Naraku's completion, the jewel's temptation, and the choice that ends the cycle.
+
 **Relationships and delivery.** Bickering, jealousy, affection, grief, and practical loyalty coexist. Inuyasha's hybrid identity supplies tension between power and belonging. The modern-world connection provides contrast, interruption, and another definition of home. The ensemble's repeated travel and downtime give emotional weight to simply staying together.
 
 **Why it may matter to you.** You may enjoy a quest that feels like living with a group, along with haunted romance, liminal identities, and a world whose danger still leaves room for banter and tenderness.

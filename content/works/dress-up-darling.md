@@ -8,6 +8,12 @@
 
 **Story engine and world.** Each arc is a build: a character Marin loves, a costume to realize, a deadline (event, Comiket, photoshoot) — and the engineering problem of the costume externalizes their relationship's current state. The world's enabling constraint is that cosplay is embodied and exacting: fabrics, fit, makeup, and photography demand intimacy — measuring bodies, discussing how a character would feel — so craft talk and body talk keep forcing emotional honesty. Fandom knowledge operates as both power system and love language.
 
+**Arcs.**
+- **The encounter** — Marin catches Gojo making hina dolls and asks the craftsman she shamed by accident to sew her dream costume.
+- **Shizuku-tan** — the first cosplay and first photo shoot: two hidden selves meet in public for the first time.
+- **More commissions, more masks** — each new character costume asks Gojo to honor a passion he was taught to be ashamed of.
+- **The aquarium and the fall** — the confession that isn't quite confessed, and the new equilibrium it creates anyway.
+
 **Relationships and delivery.** Marin and Wakana invert expected roles gently: she is the bold one with zero embarrassment, he the careful one with all the skill, and each treats the other's core shame as a treasure. The cosplay community around them — veterans, photographers, fellow makers — models fandom as mentorship rather than gatekeeping. CloverWorks' delivery is lavish: costume textures, sewing detail, and Marin's expressiveness are animated with real budget, so the making-of sequences feel as rewarding as any action set piece.
 
 **Why it may matter to you.** If Delicious in Dungeon won you with craft-as-love and a party built around each member's odd passion, this is that mechanism in contemporary romcom form. Wakana's arc — a person shaped by a single shaming, slowly repaired — echoes Violet Evergarden's and Frieren's quiet work of learning the self through others. And Marin's unguarded earnestness has the same sincerity-over-cool register as Cardcaptor Sakura.

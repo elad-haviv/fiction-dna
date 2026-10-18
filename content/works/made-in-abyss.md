@@ -8,6 +8,12 @@
 
 **Story engine and world.** Descent exposes a new ecology, rule, artifact, or cost. The difficulty of returning makes geography a source of consequence rather than a sequence of interchangeable levels. Bodies are how the setting's rules are encountered. An explanation may make a danger intelligible without making it tolerable.
 
+**Arcs.**
+- **The edge of Orth** — Riko and Reg descend for curiosity and a mother's letter; the Abyss rewards wonder with horror.
+- **The second and third layers** — the Forest of Temptation and the Great Fault teach that the environment itself is the predator.
+- **Idofront and Bondrewd** — the white whistle's experiments turn the curse of the abyss into explicit body horror and moral horror at once.
+- **The Golden Land** — the sixth layer's village of value-exchange, Faputa, and the true history of the last expedition.
+
 **Relationships and delivery.** Companionship creates a pocket of practical care in an indifferent environment. Medical attention, food, and shelter are emotionally important because survival is concrete. Soft character designs, immense spaces, strange organisms, and an expansive soundscape create a contrast between vulnerability and scale.
 
 **Why it may matter to you.** You may be drawn to an unknown that remains genuinely alien, and to environments that exert pressure on both the body and the moral imagination. The desire to know is powerful enough to become part of the danger.

@@ -8,6 +8,13 @@
 
 **Story engine and world.** The repeatable generator is the lesson: Qifrey's atelier takes in apprentices, each with a different wound around magic, and every arc is a test — literal examinations, commissions, disasters — where a technical problem reveals an ethical one. The world constraint is the rule of secrecy: magic is engineered (drawn, not innate), and the Brimmed Caps exploit the same knowledge the witch society forbids, so Coco's very existence as a self-taught outsider is both miracle and crime. The system is rigid enough that solutions feel earned and loopholes feel like discoveries rather than authorial cheats.
 
+**Arcs.**
+- **The drawing she shouldn't have made** — Coco learns magic is drawn, not born, and accidentally turns her mother to stone.
+- **The apprenticeship** — Qifrey's atelier: practice, rules, and the first hint that her teacher has his own agenda.
+- **Silver Eve** — the festival where magic is displayed and the Brimmed Caps move in the crowd.
+- **The Tower of Books and the tests** — examinations that double as skirmishes with the ones who believe magic should be free.
+- **The knight's covenant** — the gathering threat of the Brimmed Caps and Coco's slow road to forgiveness of herself.
+
 **Relationships and delivery.** The atelier is the emotional unit: Qifrey as a mentor whose gentleness hides dangerous secrets, and the fellow apprentices — Agott's prickly rivalry, Tetia's warmth, Richeh's quiet stubbornness — each embodying a different relationship to talent and rules. Shirahama's art delivers the DNA in the medium itself: impossibly detailed spreads make magic feel like craftsmanship you could almost trace with your finger. (Analysis based on the manga, the definitive version; the anime adaptation extends it.)
 
 **Why it may matter to you.** If Ascendance of a Bookworm hooked you with "knowledge as craft under an institution that gatekeeps it," this is its fantasy cousin — same delight in process, same suspicion of the gatekeepers. The strict, consequences-attached magic also rhymes with FMA:B's equivalent exchange: power is real, learnable, and never free. And like Frieren, it treats studying magic as a way of loving the world rather than merely weaponizing it.

@@ -8,6 +8,12 @@
 
 **Story engine and world.** The engine is the time-skip: each act jumps years forward, so the same relationship must be renegotiated at every age of the son — infant, child, teenager, adult, old man. The world constraint is immortality itself: Maquia cannot age, cannot stay, and cannot be publicly recognized as a mother once her son looks older than her, so every period of happiness carries its own expiration mechanism. The political subplot (a dying kingdom stealing Iorph blood to survive) mirrors the theme: everyone in the film is fighting time and losing.
 
+**Arcs.**
+- **The Hil** — Maquia's clan of ageless weavers lives outside time; invaders tear it apart for their blood.
+- **The foundling** — Maquia adopts a human baby, Eriel, and chooses the mortal clock she can never share.
+- **The years** — school, adolescence, marriage, motherhood: Eriel grows past Maquia's age and stays past her reach.
+- **The farewell** — the deathbed scene the entire film has been calculating since minute one.
+
 **Relationships and delivery.** The film is a two-hander: Maquia and Ariel, whose bond mutates from caretaking through teenage shame and separation into adult understanding. Around them, Leilia and Krim's parallel tragedy — immortals broken by attachment — shows what Maquia narrowly avoids becoming. Delivery is P.A. Works at its most painterly: luminous light, decades passing in montage, and a score that lets the weaves and seasons carry what dialogue leaves unsaid.
 
 **Why it may matter to you.** This is the most confident hypothesis of the batch: Maquia is essentially Frieren's core question — what does time mean between an immortal and the mortals she loves — focused entirely on parenthood instead of comradeship. The grief-as-price-of-love structure also echoes Violet Evergarden's lessons in what feelings cost. If Frieren moved you, this film is its closest relative in your list.

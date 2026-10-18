@@ -8,6 +8,12 @@
 
 **Story engine and world.** The repeatable generator is the journey-by-map: each stop in a new town or nation delivers a self-contained problem (an occupied village, a corrupt city, a bending teacher) that also advances an element of Aang's training or a companion's arc. The world constraint is the four-nation system itself — bending is tied to culture, philosophy, and politics, so learning an element means learning a way of being, which is why mastery can't be shortcuts. War has shaped every society the party visits; balance is a political condition, not a vibe.
 
+**Arcs.**
+- **Book One: Water** — Aang wakes a hundred years late; the master who teaches him waterbending becomes his first real friend and teacher of flexibility.
+- **Book Two: Earth** — Toph, Ba Sing Se, and the Dai Li: the season where the world's 'protectors' are revealed as jailers.
+- **Book Three: Fire** — the invasion, Zuko's turn, and training the final element from the enemy's family.
+- **Sozin's Comet** — Aang's no-kill dilemma resolved without a cheat, and the war ends with a new order instead of a conquest.
+
 **Relationships and delivery.** Team Avatar is the emotional core: Katara's fierce caretaking, Sokka's strategic growth, Toph's stubborn directness, each forcing Aang to grow in a different direction, while Zuko and Iroh run a counter-lesson in redemption and patience. The animation medium is used deliberately — bending styles are drawn from real martial arts, so fights communicate character and culture wordlessly. (Analysis of the original Nickelodeon animated series.)
 
 **Why it may matter to you.** This is probably the ancestor of several things you love: FMA:B's "power with rules and a price," Vinland Saga's "the strongest choice is refusing violence," and Frieren's long-view meditation on what survival costs. If Made in Abyss draws you for worldbuilding where geography is ideology, the four nations do the same with culture — every place teaches a philosophy.

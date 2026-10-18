@@ -8,6 +8,13 @@
 
 **Story engine and world.** The repeatable generator is the gambit chain: each move by one side (a broadcast, a surveillance tactic, a manipulated third party) forces a counter-move that reveals more of the board, so escalation is logical rather than additive. The world constraint is the notebook's rule set — precise, exploitable, and gradually disclosed — which makes the story a system-analysis puzzle as much as a morality play. The Shinigami frame keeps the stakes cosmic and ironic: the gods are bored, and human genius is their entertainment.
 
+**Arcs.**
+- **The notebook** — Light finds power without rules and immediately starts writing his own.
+- **Light vs. L** — two geniuses pretending to be friends while each builds the other's noose.
+- **Yotsuba** — the memory reset: Light without the notebook is almost a decent person, which is the thesis in one arc.
+- **Near and Mello** — the successors split the role of L in two; Light meets the successor who simply refuses to play fair with him.
+- **The final four days** — the showdown that ends not with brilliance but with a broken man running.
+
 **Relationships and delivery.** Light and L are the story's only true relationship — a mutual recognition between the two people who can actually see each other, which is why their cat-and-mouse reads as intimacy. Everyone else (Misa, the task force, Light's own father) is a lens showing what Light has become willing to spend. Obata's art does the delivery: theatrical lighting and shinigami grotesquerie make boardroom scheming feel like a supernatural battle, while the manga's famous internal-monologue spreads render thought as action. (Analysis of the manga and its anime adaptation, the definitive versions.)
 
 **Why it may matter to you.** This is the purest version of a question your other favorites keep asking: ReZero's "what does a self-mythologizing mind do under power," Vinland Saga's "can violence ever build the world it promises." If Dexter's code-bound killer interests you, Light is the same experiment without a Harry — what happens when no one teaches the monster rules except his own ego.
