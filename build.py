@@ -180,7 +180,14 @@ def build():
 </script>'''
     (OUT / "index.html").write_text(page("Story DNA · Library", "Narrative DNA of 41 favorite works", idx))
 
-    # report pages
+    # retired slugs: emit redirect pages so old links keep working
+    for retired, target in {'space-jam': 'time-jam'}.items():
+        (OUT / "works" / f"{retired}.html").write_text(
+            f'<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">'
+            f'<meta http-equiv="refresh" content="0; url={target}.html">'
+            f'<link rel="canonical" href="{target}.html">'
+            f'<title>Moved · Story DNA</title></head><body>'
+            f'<p>Renamed — see <a href="{target}.html">{target}</a>.</p></body></html>')
     for slug, title in [("worldbuilding", "Worldbuilding Report"),
                         ("characters", "Character Building & Development"),
                         ("storytelling", "Storytelling Report")]:
