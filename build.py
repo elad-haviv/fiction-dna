@@ -43,7 +43,8 @@ PAGE = """<!DOCTYPE html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title} · Story DNA</title>
 <meta name="description" content="{desc}">
-<link rel="stylesheet" href="{root}assets/style.css">
+<link rel="stylesheet" href="{root}assets/style.css?v=3">
+<link rel="icon" href="data:,">
 </head>
 <body>
 <header class="site-header">
