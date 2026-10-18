@@ -1,166 +1,289 @@
 [
  {
   "slug": "frieren",
-  "title": "Frieren"
+  "title": "Frieren",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "fullmetal-alchemist-brotherhood",
-  "title": "Fullmetal Alchemist: Brotherhood"
+  "title": "Fullmetal Alchemist: Brotherhood",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "rezero",
-  "title": "ReZero"
+  "title": "ReZero",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "mushoku-tensei",
-  "title": "Mushoku Tensei"
+  "title": "Mushoku Tensei",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "game-of-thrones",
-  "title": "Game of Thrones"
+  "title": "Game of Thrones",
+  "cats": [
+   "TV"
+  ]
  },
  {
   "slug": "elder-scrolls-specifically-skyrim",
-  "title": "The Elder Scrolls V: Skyrim"
+  "title": "The Elder Scrolls V: Skyrim",
+  "cats": [
+   "Game"
+  ]
  },
  {
   "slug": "maplestory",
-  "title": "MapleStory"
+  "title": "MapleStory",
+  "cats": [
+   "Game"
+  ]
  },
  {
   "slug": "ghost-online",
-  "title": "Ghost Online"
+  "title": "Ghost Online",
+  "cats": [
+   "Game"
+  ]
  },
  {
   "slug": "ascendance-of-a-bookworm",
-  "title": "Ascendance of a Bookworm"
+  "title": "Ascendance of a Bookworm",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "clevatess",
-  "title": "Clevatess"
+  "title": "Clevatess",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "attack-on-titan",
-  "title": "Attack on Titan"
+  "title": "Attack on Titan",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "demon-slayer",
-  "title": "Demon Slayer"
+  "title": "Demon Slayer",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "made-in-abyss",
-  "title": "Made in Abyss"
+  "title": "Made in Abyss",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "claymore",
-  "title": "Claymore"
+  "title": "Claymore",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "supernatural",
-  "title": "Supernatural"
+  "title": "Supernatural",
+  "cats": [
+   "TV"
+  ]
  },
  {
   "slug": "delicious-in-dungeon",
-  "title": "Delicious in Dungeon"
+  "title": "Delicious in Dungeon",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "to-your-eternity",
-  "title": "To Your Eternity"
+  "title": "To Your Eternity",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "vinland-saga",
-  "title": "Vinland Saga"
+  "title": "Vinland Saga",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "violet-evergarden",
-  "title": "Violet Evergarden"
+  "title": "Violet Evergarden",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "inuyasha",
-  "title": "Inuyasha"
+  "title": "Inuyasha",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "apothecary-diaries",
-  "title": "Apothecary Diaries"
+  "title": "Apothecary Diaries",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "kaleido-star",
-  "title": "Kaleido Star"
+  "title": "Kaleido Star",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "zero-no-tsukaima",
-  "title": "Zero no Tsukaima"
+  "title": "Zero no Tsukaima",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "cardcaptor-sakura",
-  "title": "Cardcaptor Sakura"
+  "title": "Cardcaptor Sakura",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "witch-hat-atelier",
-  "title": "Witch Hat Atelier"
+  "title": "Witch Hat Atelier",
+  "cats": [
+   "Manga"
+  ]
  },
  {
   "slug": "fragrant-flower",
-  "title": "The Fragrant Flower Blooms with Dignity"
+  "title": "The Fragrant Flower Blooms with Dignity",
+  "cats": [
+   "Manga"
+  ]
  },
  {
   "slug": "polar-opposites",
-  "title": "You and I Are Polar Opposites"
+  "title": "You and I Are Polar Opposites",
+  "cats": [
+   "Manga"
+  ]
  },
  {
   "slug": "dexter",
-  "title": "Dexter"
+  "title": "Dexter",
+  "cats": [
+   "TV"
+  ]
  },
  {
   "slug": "avatar",
-  "title": "Avatar: The Last Airbender"
+  "title": "Avatar: The Last Airbender",
+  "cats": [
+   "Animation"
+  ]
  },
  {
   "slug": "death-note",
-  "title": "Death Note"
+  "title": "Death Note",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "shinzo",
-  "title": "Shinzo"
+  "title": "Shinzo",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "space-jam",
-  "title": "Space Jam"
+  "title": "Space Jam",
+  "cats": [
+   "Film"
+  ]
  },
  {
   "slug": "rayman",
-  "title": "Rayman 2 & 3"
+  "title": "Rayman 2 & 3",
+  "cats": [
+   "Game"
+  ]
  },
  {
   "slug": "vikings",
-  "title": "Vikings"
+  "title": "Vikings",
+  "cats": [
+   "TV"
+  ]
  },
  {
   "slug": "dandadan",
-  "title": "Dandadan"
+  "title": "Dandadan",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "maquia",
-  "title": "Maquia: When the Promised Flower Blooms"
+  "title": "Maquia: When the Promised Flower Blooms",
+  "cats": [
+   "Film"
+  ]
  },
  {
   "slug": "bocchi",
-  "title": "Bocchi the Rock!"
+  "title": "Bocchi the Rock!",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "duke-of-death",
-  "title": "The Duke of Death and His Maid"
+  "title": "The Duke of Death and His Maid",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "oshi-no-ko",
-  "title": "Oshi no Ko"
+  "title": "Oshi no Ko",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "takagi",
-  "title": "Teasing Master Takagi-san"
+  "title": "Teasing Master Takagi-san",
+  "cats": [
+   "Anime"
+  ]
  },
  {
   "slug": "dress-up-darling",
-  "title": "My Dress-Up Darling"
+  "title": "My Dress-Up Darling",
+  "cats": [
+   "Anime"
+  ]
  }
 ]

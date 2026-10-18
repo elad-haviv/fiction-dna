@@ -101,7 +101,11 @@ def build():
             raise SystemExit(f"missing card: {f}")
         title, sections = card_sections(f.read_text())
         dna = next((v for k, v in sections if k == 'DNA sentence'), [''])
-        cards.append({**entry, 'display': title, 'sections': sections, 'dna': ' '.join(dna)})
+        tags = next((v for k, v in sections if k.lower().startswith('tags')), [])
+        search_blob = ' '.join([entry['title'], title] + dna + tags).lower()
+        cats = entry.get('cats', [])
+        cards.append({**entry, 'display': title, 'sections': sections,
+                      'dna': ' '.join(dna), 'tags': tags, 'search': search_blob, 'cats': cats})
 
     # individual work pages
     for c in cards:
@@ -122,17 +126,57 @@ def build():
             page(c['display'], c['dna'][:150], '\n'.join(parts), root="../"))
 
     # index
+    all_cats = sorted({c for c2 in cards for c in c2['cats']})
+    chips = ''.join(
+        f'<button class="chip" data-cat="{html.escape(c)}">{html.escape(c)}</button>'
+        for c in all_cats)
     lis = []
     for i, c in enumerate(cards, 1):
-        lis.append(f'''<a class="card" href="works/{c['slug']}.html">
+        lis.append(f'''<a class="card" href="works/{c['slug']}.html" data-cats="{html.escape(' '.join(c['cats']))}" data-search="{html.escape(c['search'])}">
   <span class="num">{i:02d}</span>
   <span class="t">{html.escape(c['display'])}</span>
+  <span class="cats">{' '.join(html.escape(x) for x in c['cats'])}</span>
   <span class="d">{md_inline(c['dna'])}</span>
 </a>''')
     idx = f'''<h1>Story DNA</h1>
 <p class="lede">A reference library of {len(cards)} favorite works — what makes each of them tick, and what they teach about worldbuilding, characters, and storytelling.</p>
 <p class="lede small">Each card is a critical reading. The "why it may matter to you" sections are hypotheses, not claims.</p>
-<div class="grid">{''.join(lis)}</div>'''
+<div class="filters">
+  <input id="search" type="search" placeholder="Search works, DNA, tags…" autocomplete="off">
+  <div class="chips"><button class="chip active" data-cat="">All</button>{chips}</div>
+</div>
+<div class="grid" id="grid">{''.join(lis)}</div>
+<p class="lede small" id="empty" style="display:none">No works match — try a different search or category.</p>
+<script>
+(function () {{
+  var q = document.getElementById('search');
+  var grid = document.getElementById('grid');
+  var empty = document.getElementById('empty');
+  var cards = Array.prototype.slice.call(grid.children);
+  var cat = '';
+  var chips = Array.prototype.slice.call(document.querySelectorAll('.chip'));
+  chips.forEach(function (ch) {{
+    ch.addEventListener('click', function () {{
+      cat = ch.dataset.cat;
+      chips.forEach(function (x) {{ x.classList.toggle('active', x === ch); }});
+      apply();
+    }});
+  }});
+  function apply() {{
+    var needle = q.value.trim().toLowerCase();
+    var shown = 0;
+    cards.forEach(function (card) {{
+      var okCat = !cat || (card.dataset.cats || '').split(' ').indexOf(cat) !== -1;
+      var okQ = !needle || (card.dataset.search || '').indexOf(needle) !== -1;
+      var show = okCat && okQ;
+      card.style.display = show ? '' : 'none';
+      if (show) shown++;
+    }});
+    empty.style.display = shown ? 'none' : '';
+  }}
+  q.addEventListener('input', apply);
+}})();
+</script>'''
     (OUT / "index.html").write_text(page("Story DNA · Library", "Narrative DNA of 41 favorite works", idx))
 
     # report pages
